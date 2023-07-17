@@ -2,7 +2,7 @@
   
 
 <div>
-  <p>I'm Gerges Badr, a passionate Frontend Developer from Minya, Egypt. Immersed in the fascinating world of web development, I hone my skills to create seamless and engaging user experiences.</p>
+  <p>I'm Gerges Badr, a passionate Frontend Developer based in Minya, Egypt. I have Immersed myself in the fascinating world of web development, I hone my skills to create seamless and engaging user experiences.</p>
   <p>I'm locking for delivering an excellent digital experiences, so I have familiarized myself with Accessibility principles to include everyone. With a keen eye for details, I ensure my creations are accessible to all users.</p>
   <p>My curiosity drives me to explore further. Mastering ReactJS and deeply understand the frontend ecosystem are my next goals, always staying up-to-date with web development technologies.</p>
   <p>Looking ahead, I aim to become a full-stack developer. Passionate about web development or just want to connect? Feel free to reach out!</p>

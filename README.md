@@ -4,7 +4,7 @@
 <div>
   <p>Greetings! I'm Gerges Badr, a passionate Frontend developer based on Minya, Egypt. with expertise in HTML, CSS, JavaScript, Accessibility (A11y), TailwindCSS, React, Git and GitHub.</p>
   <p>I enjoy making user-friendly designs that work well on different devices.</p>
-  <p>Having garnered positive feedback on previous projects, I worked on turning ideas into visually appealing and functional web solutions./p>
+  <p>Having garnered positive feedback on previous projects, I worked on turning ideas into visually appealing and functional web solutions.</p>
   <p>Passionate about web development or just want to connect? Feel free to reach out! Let's connect and create amazing web experiences together.</p>
 </div>  
   

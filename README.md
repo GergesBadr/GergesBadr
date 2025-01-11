@@ -2,13 +2,13 @@
   
 
 <div>
-  <p>Hello world! I'm Gerges Badr, a frontend developer based in Egypt. I build pixel-perfect, engaging, and accessible digital experiences. My ultimate goal is to turn ideas into visually appealing and functional web solutions!</p>
+  <p>I'm Gerges Badr, a frontend developer based in Egypt. I build pixel-perfect, engaging, and accessible digital experiences. My ultimate goal is to turn ideas into visually appealing and functional web solutions!</p>
   <p> Despite the main frontend skills, I also have expanded my experience with web development fundamental concepts and third-party libraries. Just o mention a few: </p>
   <ul>
-    <li> - Accessibility (A11y) </li>
-    <li> - Performance </li>
-    <li> - Framer-motion | Supabase | Date-Fns | Recharts | EmailJS </li>
-    <li> - React environment: react-router | react-query | react-hook-form | react-hot-toast | redux-toolkit </li>
+    <li> Accessibility (A11y) </li>
+    <li> Performance </li>
+    <li> Framer-motion | Supabase | Date-Fns | Recharts | EmailJS </li>
+    <li> React environment: react-router | react-query | react-hook-form | react-hot-toast | redux-toolkit </li>
   </ul>
   <p>I am always open to learning new skills as the project requires, fixing problems is a must in terms of software development, and that's what I do daily. Passionate about web development or want to start a conversation? Feel free to reach out! Let's connect and create amazing web experiences together.</p>
 </div>  
@@ -33,14 +33,13 @@
 <br/>  
 
 ## Github Stats 📊
-<div> <img src="https://github-readme-stats.vercel.app/api?username=GergesBadr&show_icons=true&count_private=true&theme=dark&rank_icon=github" /></div>
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GergesBadr&theme=dark&layout=compact" /></div>
-
+<img src="https://github-readme-stats.vercel.app/api?username=GergesBadr&show_icons=true&count_private=true&theme=dark&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GergesBadr&theme=dark&layout=compact" />
 
 <br/>  
 
 
-## Where to find me  🚀
+## Ready to take your digital experience to the NEXT level? Message me now 🚀
 
 <a href="https://gergesbadr.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"  />
@@ -57,6 +56,3 @@
 <a href="mailto:gergesbadr77@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"  />
 </a>
-
-Ready to take your digital experience to the NEXT level? Don't be shy and message me now.
-
